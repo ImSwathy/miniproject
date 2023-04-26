@@ -42,7 +42,7 @@ class _MyHeaderDrawerState extends State<MyHeaderDrawer> {
           const Text(
             "User",
             style: TextStyle(
-                color: Colors.white, fontSize: 30, fontStyle: FontStyle.italic),
+                color: Colors.white, fontSize: 30, fontStyle: FontStyle.normal),
           ),
         ],
       ),
